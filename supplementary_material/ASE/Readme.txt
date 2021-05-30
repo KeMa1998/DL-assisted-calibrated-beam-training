@@ -1,0 +1,2 @@
+ASE (average spectral efficiency [1]) can be rewritten as effecient spectral efficiency.
+[1] M. Hussain, M. Scalabrin, M. Rossi, and N. Michelusi, “Mobility and blockage-aware communications in millimeter-wave vehicular networks,” IEEE Trans. Veh. Tech., vol. 69, no. 11, pp. 13072–13086, Nov. 2020.

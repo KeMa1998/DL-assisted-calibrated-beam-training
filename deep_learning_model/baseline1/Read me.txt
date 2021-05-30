@@ -1,0 +1,5 @@
+The folder includes the source codes of baseline 1.
+Note: 
+1. Environment: MATLAB R2019a.
+2. Run baseline1.m to start simulations.
+3. Reference of baseline 1: Xingyi Luo et al., Calibrated Beam Training for Millimeter-Wave Massive MIMO Systems.

@@ -1,0 +1,8 @@
+This folder includes deep learning codes and corresponding results.
+Due to storage restriction of Github, datasets and well-trained models can be downloaded from:
+1. Tsinghua Cloud: https://cloud.tsinghua.edu.cn/d/4b29cf2c534f4481905a/
+2. MEGA: https://mega.nz/folder/aDZgzbib#a8jxC8xkGvWusX-Ttg_Itg
+3. Google Drive: https://drive.google.com/drive/folders/1az6C7vJZXogSu66EAEhTWqYrcCh6uMRp
+The folder is free to use, including dataset utilization, simulation result reproduction, model improvement, etc.
+For academic use, please cite the reference below:
+K. Ma, et al., Deep Learning Assisted Calibrated Beam Training for Millimeter-Wave Communication Systems, Arxiv: 2101.05206.

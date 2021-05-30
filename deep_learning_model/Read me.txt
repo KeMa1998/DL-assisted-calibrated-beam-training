@@ -1,0 +1,2 @@
+The folder includes the source codes of baselines and our proposed schemes.
+Reference: K. Ma et al., Deep Learning Assisted Calibrated Beam Training for Millimeter-Wave Communication Systems, to be published in Arxiv.

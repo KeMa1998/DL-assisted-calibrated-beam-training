@@ -1,0 +1,6 @@
+The folder consists of python files and saved models for baseline 2, proposed CNN and LSTM based schemes.
+Note:
+1. Environment: Pytorch, Python 2.7.
+2. Run train_beam_basic.py to start simulations.
+3. The evaluation of baseline 2 varies from other schemes, since baseline 2 has measured partial narrow beams.
+4. Reference of baseline 2: C. Qi et al., Deep Learning for Beam Training in Millimeter Wave Massive MIMO Systems.

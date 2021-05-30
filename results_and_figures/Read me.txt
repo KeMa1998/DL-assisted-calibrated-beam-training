@@ -1,0 +1,4 @@
+The folder includes training results and the program for plotting figures.
+Note:
+1. Environment: MATLAB R2019a.
+2. Run figure_plot.m to obtain simulation results.

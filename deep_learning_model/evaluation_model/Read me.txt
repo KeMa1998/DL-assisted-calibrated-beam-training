@@ -1,0 +1,6 @@
+The folder consists of python files for performance evaluations.
+Note:
+1. Environment: Pytorch, Python 2.7.
+2. The evaluation of baseline 2 varies from other schemes, since baseline 2 has measured partial narrow beams.
+3. When evaluating the performance of the adaptive CBT schemes, the trained wide beam number K in model_3Dcov_basic.py should be set to be consistent with the applied model.
+4. The detailed code comments can be seen in the folder basic_model.
